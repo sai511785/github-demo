@@ -1,2 +1,2 @@
 # github-demo
-Git Basic
+Git Basics
